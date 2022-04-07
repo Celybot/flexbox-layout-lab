@@ -1,3 +1,12 @@
 .container{
-    
+    display: flex;
+    flex-direction:row;
+    background-color: green;
+    justify-content:flex-end;
+    justify-content:space-around;
+   
+}
+.list li{
+ list-style-type: none
+ 
 }
